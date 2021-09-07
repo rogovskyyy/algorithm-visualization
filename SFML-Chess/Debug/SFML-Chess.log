@@ -1,0 +1,2 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: Katalog pośredni (Debug\) zawiera pliki udostępnione z innego projektu (SFML-Chess.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  SFML-Chess.vcxproj -> C:\Users\Bartek\source\repos\SFML-Chess\Debug\CPP-Sorting-Algorithms.exe
